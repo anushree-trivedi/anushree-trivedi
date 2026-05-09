@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Anushree (Anu) Trivedi 👋
 
-<!--
-**anushree-trivedi/anushree-trivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business & Data Analyst | Power BI | SQL | Python**
+📍 Hamilton, ON | Open to hybrid/remote roles in the GTA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+Data analyst with 5+ years of experience turning complex data into business decisions. 
+I specialize in Power BI dashboards, SQL analytics, and process automation across 
+financial services, insurance, and operations.
+
+- 🏦 Past: FirstOntario Credit Union | TUV SUD | Kinetiq TV
+- 🎓 M.Eng, Computer Engineering – University of Guelph
+- 📊 Tools: Power BI · SQL · Python · Tableau · Excel/VBA · Power Automate
+
+---
+
+## 📁 Featured Projects
+
+| Project | Tools | Business Domain |
+|---|---|---|
+| [Credit Risk Customer Segmentation](#) | Python, SQL, Power BI | Financial Services |
+| [Financial KPI Dashboard](#) | SQL, Power BI, DAX | Banking / Reporting |
+| [Operational Automation Analysis](#) | Python, Excel, SQL | Operations |
+
+---
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINK-HERE)
