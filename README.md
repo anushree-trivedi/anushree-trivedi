@@ -20,9 +20,9 @@ financial services, insurance, and operations.
 
 | Project | Tools | Business Domain |
 |---|---|---|
-| [Credit Risk Customer Segmentation | Python, SQL, Power BI | Financial Services |
-| [Financial KPI Dashboard] | SQL, Power BI, DAX | Banking / Reporting |
-| [Operational Automation Analysis] | Python, Excel, SQL | Operations |
+| Credit Risk Customer Segmentation | Python, SQL, Power BI | Financial Services |
+| Financial KPI Dashboard | SQL, Power BI, DAX | Banking / Reporting |
+| Operational Automation Analysis| Python, Excel, SQL | Operations |
 
 ---
 
